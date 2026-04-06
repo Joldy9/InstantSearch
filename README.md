@@ -25,4 +25,4 @@
 1. Установите Unity Hub и Unity 6000.4.0f1
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_аккаунт/InstantSearch.git
+   git clone https://github.com/Joldy9/InstantSearch.git
